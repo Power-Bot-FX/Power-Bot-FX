@@ -1,0 +1,14 @@
+Hola, bienvenido gracias por usar power-Bot-FX
+Estoy creando un bot para whatsApp y me gustaría que lo usen.
+Estas son la configuración de Power-Bot-FX
+
+- pkg upgrade && update
+- pkg install git -y
+- pkg install bash -y
+- git clone https://github.com/Power-Bot-FX/Power-Bot-FX
+- cd Power-Bot-FX
+- bash instaló.sh -y
+- node thechoute
+
+Mi numero por si hay un fallo con el bot
+ - 5493772642151
